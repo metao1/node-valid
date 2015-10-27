@@ -10,7 +10,7 @@ A validator
 
 ### creating new Object
 ``` javascript 
-var valid = require('valid')();
+var valid = require('node-valid')();
 ```
 
 ### functions
