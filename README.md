@@ -1,7 +1,7 @@
-valid
+node-valid
 =====
 
-A validator
+A Node validator
 ###Installation
 
 ```npm install git://github.com/metao1/node-valid.git#v0.0.1```
