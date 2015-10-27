@@ -1,0 +1,27 @@
+{
+	"name": "node-valid",
+	"version": "0.0.1",
+	"description": "Light weight object validator.",
+	"author": "Mehrdad Allahkarami (info@metao.ir)",
+	"homepage": "http://blog.avesty.com",
+	"keywords": [
+		"validator", "validator"
+	],
+	"repository": {
+		"type": "git",
+		"path": "git://github.com/metao1/note-valid.git"
+	},
+	"bugs": "https://github.com/metao1/node-valid/issues",
+	"contributors": [
+	],
+	"private": true,
+	"license": "AGPL",
+	"main": "./index.js",
+	"dependencies": {
+		
+	},
+	"optionalDependencies": {},
+	"devDependencies": {
+		
+	}
+}
